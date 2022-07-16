@@ -1,11 +1,6 @@
-### HELLO WORLD 👋
-<!-- Stats Card -->
-<h2 align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilleniumMods&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=650)]">
-  </a>
-  
-<!-- Top Languages Card -->
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilleniumMods&repo=github-readme-stats&langs_count=5&show_icons=true&theme=radical&layout=compact&card_width=405)]">
-  </a>
+MilleniumMods es una organización dedicada a crear software ~~de alta calidad,~~ público, con enfoque en la comunidad, y hecho por jugadores, para jugadores.
+
+
+Aprende más sobre nosotros desde [milleniummods.com](https://milleniummods.com)
+
+Entra a [nuestro servidor de Discord](https://discord.milleniummods.com) para interactuar con la comunidad
